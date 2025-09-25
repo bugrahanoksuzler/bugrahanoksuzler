@@ -4,7 +4,6 @@
 <br>
 
 ![Projeler](https://img.shields.io/badge/Tamamlanan%20Projeler-10%2B-purple?style=for-the-badge&logo=github&logoColor=white)
-![Kahve](https://img.shields.io/badge/Tüketilen%20Kahve-200%2B-orange?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![Deneyim](https://img.shields.io/badge/Deneyim-1%20Yıl-blue?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 🚀 Full Stack **.NET Core Developer** olarak 1 yıllık deneyime sahibim.  
