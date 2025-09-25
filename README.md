@@ -25,7 +25,7 @@
 [![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=dotnet,sqlserver,mysql,rabbitmq,postman,visualstudio,vscode,github )]()
 <br>
 
-    <img src="https://github.com/user-attachments/assets/32634fbf-b87a-49bd-82ae-4b2558a9cf57" alt="software" width="200"/>
+ <img src="https://github.com/user-attachments/assets/32634fbf-b87a-49bd-82ae-4b2558a9cf57" alt="software" width="200"/>
 
 ---
 
