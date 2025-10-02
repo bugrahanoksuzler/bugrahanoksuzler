@@ -26,6 +26,7 @@
 
  <img src="https://github.com/user-attachments/assets/32634fbf-b87a-49bd-82ae-4b2558a9cf57" alt="software" width="200"/>
 
+![bugrahanoksuzler's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugrahanoksuzler&theme=dark&hide_border=true)
 
 ---
 
@@ -64,7 +65,6 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-![bugrahanoksuzler's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugrahanoksuzler&theme=dark&hide_border=true)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 </div>
